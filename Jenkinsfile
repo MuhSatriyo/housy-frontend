@@ -1,6 +1,6 @@
 def branch = "main"
 def repo = "git@github.com:MuhSatriyo/housy-frontend.git"
-def cred = "cicd2"
+def cred = "cicd"
 def dir = "~/housy-frontend"
 def server = "tesgtw@103.82.92.144"
 def imagename = "housy-fe"
